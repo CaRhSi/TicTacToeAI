@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: There will be an error
+  - text: 879148
+  - text: We don't know that
+  - text: 879149
+files:
+  - name: main.py
+    visible: true
+    text: |+
+      #  You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9264#comment
+status: Solved
+record: -1
+custom_name: The same variable?
+local_check: false

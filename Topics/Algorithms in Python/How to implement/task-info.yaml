@@ -1,0 +1,14 @@
+type: code
+custom_name: How to implement?
+files:
+  - name: main.py
+    visible: true
+    highlight_level: NONE
+    text: |-
+      def prod(first, second):
+          ...
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15377#comment
+status: Solved
+record: -1
+submission_language: python3

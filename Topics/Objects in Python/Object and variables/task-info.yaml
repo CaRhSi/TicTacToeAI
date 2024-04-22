@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: All variables will change too
+  - text: Variables will stop existing
+  - text: "All variables will stay the same, only the object will change"
+  - text: It is impossible to change the object if there are variables that refer to
+      it
+files:
+  - name: main.py
+    visible: true
+    text: |+
+      #  You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23421#comment
+status: Solved
+record: -1
+local_check: false

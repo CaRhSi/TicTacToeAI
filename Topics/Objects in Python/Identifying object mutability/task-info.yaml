@@ -1,0 +1,22 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: |-
+      def is_mutable(obj):
+          if ???:
+              return 'Mutable'
+          else:
+              return 'Immutable'
+      
+      input_obj = eval(input())
+      result = is_mutable(input_obj)
+      print(result)
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45981#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 12 Apr 2024 09:48:52 UTC"
+record: -1
+submission_language: python3
